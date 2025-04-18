@@ -29,3 +29,14 @@ In this project, I build a predictive model that answers the question: “what s
 8. Parch: # of parents / children aboard the Titanic
 9. Ticket
 10. Fare
+
+4. Upload the Libraries and the Data (Train, Test and gender)
+4. Understand the shape of the data (Histograms, Box Plots, etc)
+5. Data Cleaning
+6. Data Exploration
+7. Feature Engineering
+8. Data Preprocessing for Model
+9. Basic Model Building
+10. Model Tuninng
+11. Ensemble Model Building
+12. Results
