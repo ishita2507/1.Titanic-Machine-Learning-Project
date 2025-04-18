@@ -1,6 +1,8 @@
 # 1.Titanic-Machine-Learning-Project
 Kaggle Project: A predictive machine learning model that predicts which passengers survived the Titanic shipwreck
 
+Output: Accuracy %
+
 **Context:**
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 In this project, I build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
