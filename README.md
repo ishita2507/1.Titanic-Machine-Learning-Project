@@ -16,4 +16,14 @@ In this project, I build a predictive model that answers the question: “what s
 
 2. **Dataset:** We have two dataset - training set that will be used to build our model since we have all the features as well as the outcome. 2. Test Dataset: that is used to see how well the model performs on unseen data with a main task to predict the outcomes.
    
-4. 
+3. **Understand all the features in the dataset:** 
+1. PassengerId
+2. Survived
+3. Pclass: Class of the passenger (1-upper, 2-middle, 3-lower)
+4. Name
+5. Sex (Male or Female)
+6. Age
+7. SibSp: number of Sibling or spouse (Sibling - brother, sister, stepbrother, stepsister____ spouse: husand, wife)
+8. Parch: # of parents / children aboard the Titanic
+9. Ticket
+10. Fare
