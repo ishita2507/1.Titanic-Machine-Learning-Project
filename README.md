@@ -11,4 +11,3 @@ In this project, I build a predictive model that answers the question: “what s
 3. Train, tune, ensemble (combining multiple models) Machine learning projects
 4. Accuracy test of your model
 
-5. New Features 
