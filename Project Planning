@@ -1,0 +1,26 @@
+1. Understand what type of problem it is - Regression, Classfication, etc
+2. Understand the nature of the data
+      .info(), .describe() ---- it means to understand what are the data types, numerics or categories, understand avg or missing values 
+3. Exploring Numerics: 
+      Histograms and Boxplots  --- helps to understand the trends in the data and understand does any column require us to dive into further?
+4. Exploring Measures: 
+      Value Counts --- Since for categorical we can't do Histograms or Box plots, therefore, we do bar chats to see what categories people fall for 
+5. Missing Data: 
+      Understand the missing values to see if we want to remove the missing values or impute the data 
+6. Correlation between the metrics 
+      Now, you have understood the columns individually, it's time to explore in correlation between the different metrics to see what things are related and which things
+      are related to dependent variables 
+7. Classification/Regression Problem: Since we are predicting yes or no based on factors so it is a classification problem
+8. Explore other things in the data 
+      #Did Wealthy survive?
+      #By cabin affected the survival rate?
+      #Ticket price affected the survival rate?
+9. Feature Engineering 
+      Make some new variables 
+10. Preprocess data together or use a transformer 
+      Pre-process the data so we can use it in the analysis in our models
+      #use label for train and test 
+11. Model Building 
+      Scaling?
+      Model Baseline 
+      #Model comparison with CV 
