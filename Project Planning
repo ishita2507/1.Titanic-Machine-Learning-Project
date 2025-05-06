@@ -1,3 +1,4 @@
+Steps for Project Planning 
 1. Understand what type of problem it is - Regression, Classfication, etc
 2. Understand the nature of the data
       .info(), .describe() ---- it means to understand what are the data types, numerics or categories, understand avg or missing values 
