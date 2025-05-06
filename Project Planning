@@ -1,11 +1,16 @@
 Steps for Project Planning 
-1. Understand what type of problem it is - Regression, Classfication, etc
+1. Understand what type of problem it is - Regression, Classification, etc
 2. Understand the nature of the data
       .info(), .describe() ---- it means to understand what are the data types, numerics or categories, understand avg or missing values 
-3. Exploring Numerics: 
-      Histograms and Boxplots  --- helps to understand the trends in the data and understand does any column require us to dive into further?
-4. Exploring Measures: 
+3. For Numerical Data: 
+      Histograms and Boxplots  --- 
+            1. Make histograms to understand distribution
+            2. Pivot table comparing survivor rates across numerical variables 
+      helps to understand the trends in the data and understand does any column requires us to dive into further?
+4. For Categorical Data: 
       Value Counts --- Since for categorical we can't do Histograms or Box plots, therefore, we do bar chats to see what categories people fall for 
+            1. Made bar chats to understand balance of classes 
+            2. Made Pivot tables to understand relationship with survival
 5. Missing Data: 
       Understand the missing values to see if we want to remove the missing values or impute the data 
 6. Correlation between the metrics 
